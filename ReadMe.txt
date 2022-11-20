@@ -1,3 +1,9 @@
+Parody Invaders, by Yousef Korayem, 49-5052
+
+Built in OpenGL and GLUT for GUC's DMET 502 Computer Graphics Course, Assignment 1 Winter 2022.
+
+Built off the OpenGL2D template who's ReadMe is below:
+
 ========================================================================
     CONSOLE APPLICATION : OpenGL2DTemplate Project Overview
 ========================================================================
